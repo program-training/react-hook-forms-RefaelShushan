@@ -1,11 +1,11 @@
 import './App.css'
-import RegularForm from './components/RegularForm'
+import { HookForm } from './components/RegularForm'
 
 function App() {
 
   return (
     <>
-    <RegularForm />
+    <HookForm />
     </>
   )
 }
